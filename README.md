@@ -38,7 +38,7 @@ Un scraper construido con Python, FastAPI y Pushshift para obtener publicaciones
 - Incluye interfaz gráfica con PySide6.  
 - Función de barra de progreso en tiempo real.  
 
-🔗 [Repositorio](https://github.com/tuusuario/reddit-scraper)  
+🔗 [Repositorio](https://github.com/NRGHRG/Scraper-Reddit)  
 
 ---
 
