@@ -54,4 +54,17 @@ Un scraper construido con Python, FastAPI y Pushshift para obtener publicaciones
 ## 📌 Retroalimentaciones aplicadas
 - Se mejoró la documentación de proyectos incluyendo diagramas y ejemplos de ejecución.  
 - Se estandarizó el uso de README.md en todos los repositorios.  
-- Se agregaron enlaces directos a LinkedIn y perfiles sociales para mayor visibilidad.  
+- Se agregaron enlaces directos a LinkedIn y perfiles sociales para mayor visibilidad.
+
+- ## 🧪 Evidencias de buenas prácticas
+- Commits atómicos y mensajes descriptivos (ver historial en cada repo).
+- Repos públicos y documentados (README, estructura por carpetas).
+- Variables sensibles aisladas en `.env` o no versionadas en repos públicos.
+- Inclusión de capturas y GIFs de uso.
+- Releases versionados cuando aplica (ej. Scraper-Reddit v1).
+
+
+## 🔗 Enlace de revisión docente
+- Portafolio (este repo): https://github.com/NRGHRG/Portafolio
+- Perfil GitHub: https://github.com/NRGHRG
+
